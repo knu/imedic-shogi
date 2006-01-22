@@ -11,9 +11,9 @@
 # -- 
 # --                                                      武者 晶紀
 # -- 
-# -- Copyright (c) 2001-2004 Akinori MUSHA <Akinori@MUSHA.org>
+# -- Copyright (c) 2001-2006 Akinori MUSHA <Akinori@MUSHA.org>
 # -- 
-# -- $Idaemons: /home/cvs/knu/vje/shogi.vje.txt,v 1.39 2005/01/15 22:49:27 knu Exp $
+# -- $Idaemons: /home/cvs/knu/vje/shogi.vje.txt,v 1.40 2006/01/22 19:08:14 knu Exp $
 # -- 
 
 １１	１一	【名詞】
@@ -1129,6 +1129,7 @@
 りょうにらみ	両睨み	【名詞】
 るいじさく	類似作	【名詞】
 れーてぃんぐ	レーティング	【名詞】
+れんさい	連採	【名サ】
 れんぞくあい	連続合	【名サ】
 れんどり	連取り	【名サ】
 ろくしょう	六将	【名詞】
