@@ -11,9 +11,9 @@
 # -- 
 # --                                                      Éð¼Ô ¾½µª
 # -- 
-# -- Copyright (c) 2001-2007 Akinori MUSHA <Akinori@MUSHA.org>
+# -- Copyright (c) 2001-2008 Akinori MUSHA <Akinori@MUSHA.org>
 # -- 
-# -- $Idaemons: /home/cvs/knu/vje/shogi.vje.txt,v 1.44 2008/07/16 08:56:51 knu Exp $
+# -- $Id$
 # -- 
 
 £±£±	£±°ì	¡ÚÌ¾»ì¡Û
