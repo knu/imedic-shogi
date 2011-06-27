@@ -1,3 +1,4 @@
+# -*- coding: euc-jp -*-
 # -- 
 # -- ¾­´ýÍÑ¸ì¼­½ñ
 # -- 
@@ -14,7 +15,7 @@
 # -- This work is licensed and protected under a Creative Commons
 # -- Attribution-Share Alike 2.1 Japan License.
 # -- 
-# -- Copyright (c) 2001-2010 Akinori MUSHA <Akinori@MUSHA.org>
+# -- Copyright (c) 2001-2011 Akinori MUSHA <Akinori@MUSHA.org>
 # --
 # --
 # -- $Id$
