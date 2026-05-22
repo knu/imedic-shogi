@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write
 
+env:
+  TZ: Asia/Tokyo
+
 jobs:
   release:
     if: ${{ startsWith(github.ref_name, 'r') }}
