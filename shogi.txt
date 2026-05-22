@@ -1,7 +1,7 @@
 !!ATOK_TANGO_TEXT_HEADER_1
 !!
 !! 将棋用語辞書
-!! Revision 63
+!! Revision 64
 !!
 !! この変換辞書データはクリエイティブ・コモンズ「表示-継承 2.1 日本」
 !! ライセンスの下で利用できます。詳細は次のサイトを参照してください。
@@ -16,7 +16,7 @@
 !! This work is licensed and protected under a Creative Commons
 !! Attribution-Share Alike 2.1 Japan License.
 !!
-!! Copyright (c) 2001-2015 Akinori MUSHA <Akinori@MUSHA.org>
+!! Copyright (c) 2001-2026 Akinori MUSHA <Akinori@MUSHA.org>
 !!
 あい	合	名詞サ変*
 あい	合	接尾語*
