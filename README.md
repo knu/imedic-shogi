@@ -14,9 +14,9 @@
 - [MS-IME形式](https://github.com/knu/imedic-shogi/releases/latest/download/shogi.msime.txt)
 - [ことえり形式](https://github.com/knu/imedic-shogi/releases/latest/download/shogi.kotoeri.txt)
 
-MS-IME形式は BOM 付き UTF-16LE / CRLF です。
+ATOK形式、MS-IME形式は BOM 付き UTF-16LE / CRLF です。
 
-開発版の元データは [shogi.txt](./shogi.txt) です。
+開発版の元データは [shogi.txt](./shogi.txt) (UTF-8 / LF) です。
 
 ## 使い方
 

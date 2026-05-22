@@ -33,7 +33,7 @@ jobs:
       - name: Generate dictionaries
         run: |
           set -euo pipefail
-          sed -E 's/\r?$/\r/' shogi.txt > shogi.atok.txt
+          atok2atok shogi.txt > shogi.atok.txt
           atok2kotoeri shogi.txt > shogi.kotoeri.txt
           atok2msime shogi.txt > shogi.msime.txt
 
